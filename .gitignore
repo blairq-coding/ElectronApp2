@@ -3,9 +3,12 @@
 # dependencies
 /node_modules
 /.pnp
+.vscode
 .pnp.js
 /nodemodules
 /src/assets/img/recommend
+/src/assets/img/animation
+/src/assets/img/rank
 # testing
 /coverage
 
